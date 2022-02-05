@@ -11,7 +11,7 @@ public class Uri1003 {
 
         soma = a + b;
 
-        System.out.printf("SOMA = " + soma);
+        System.out.println("SOMA = " + soma);
 
         teclado.close();
     }
